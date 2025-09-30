@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Bebel9445
 
-🖥️ Student in **IT License**
-👀 Like discovering new langages
+🖥️ Student in **IT License**<br>
+👀 Like discovering new langages<br>
 ⚙️ I do some ASM x86_64 and low level for fun
 
 ## 🛠️ Tools and languages that I use
