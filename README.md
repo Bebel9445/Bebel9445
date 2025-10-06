@@ -6,16 +6,18 @@
 
 ## 🛠️ Tools and languages that I use
 
-![Manjaro](https://img.shields.io/badge/Manjaro-32c0a5?logo=manjaro&logoColor=white)
+![Garuda](https://img.shields.io/badge/Garuda-7F3FBE?logo=garudalinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/x86__64-grey?logo=assemblyscript&logoColor=white)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bebel9445&layout=pie&theme=blue-green&hide=g-code&langs_count=10&hide_border=true)
 
-## 🖱️ Some projects (actually, only one 😅)
+## 🖱️ Some projects
 
-🚗 **wm** : a command that shows war machines (tanks, vehicles...) in linux terminal
+🚗 **wm** : a command that shows war machines (tanks, vehicles...) in linux terminal<br>
+🪩 **Pokemon catching chance calculator** : a webapp that calculates the probability of catching a Pokémon based on various variables (<ins>work in progress</ins>)<br>
+🖋️ **Audit Inc** : A Reign-like game about auditing a business (<ins>work in progress</ins>)
 
 
 <!--
