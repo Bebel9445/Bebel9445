@@ -8,9 +8,7 @@ Welcome, traveler, to the Twilight Lands and my domain of code.
 👀 Discovering new languages is my unwavering quest.<br>
 ⚙️ I pursue my path by practicing x86_64 Assembly and low-level sorcery.
 
-## 🛠️ My Faithful Gear for the Quest
-
-**The blades and tools I wield in my journey:**
+## 🛠️ My faithful gear for the quest
 
 ![Garuda](https://img.shields.io/badge/Garuda-7F3FBE?logo=garudalinux&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-CD2355?logo=raspberrypi)
@@ -18,15 +16,11 @@ Welcome, traveler, to the Twilight Lands and my domain of code.
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/x86__64-grey?logo=assemblyscript&logoColor=white)
 
-## My Affinity with Ancient Writings
-
-**The echoes of the spirits in my most used scripts:**
+## My Affinity with ancient writings
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bebel9445&layout=pie&theme=blue-green&hide=g-code&langs_count=10&hide_border=true)
 
-## 🖱️ Listing the Side Quests
-
-**Chronicles of my current and future endeavors:**
+## 🖱️ Listing the side quests
 
 🚗 **wm** : A spell that summons war machines (tanks, vehicles...) into a Linux terminal.<br>
 🪩 **Pokemon catching chance calculator** : A digital relic calculating the capture probability of a Pokémon based on various parameters (<ins>quest in progress</ins>)<br>

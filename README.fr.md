@@ -1,4 +1,4 @@
-## The legend of Bebel9445 : Twilight Github
+# The legend of Bebel9445 : Twilight Github
 
 🇫🇷 [Français](README.fr.md) | 🇬🇧 [Anglais](README.md)
 
@@ -11,6 +11,7 @@ Bienvenue, voyageur, dans les terres du Crépuscule et mon domaine du code.
 ## 🛠️ Mon fidèles équipement pour ma quête
 
 ![Garuda](https://img.shields.io/badge/Garuda-7F3FBE?logo=garudalinux&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-CD2355?logo=raspberrypi)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/x86__64-grey?logo=assemblyscript&logoColor=white)
@@ -21,9 +22,12 @@ Bienvenue, voyageur, dans les terres du Crépuscule et mon domaine du code.
 
 ## 🖱️ Liste les quêtes secondaires
 
-🚗 **wm** : une commande qui affiche des machines de guerre (tanks, vehicles...) dans un terminal linux<br>
-🪩 **Pokemon catching chance calculator** : Une application web qui calcule la probabilité de capture d'un Pokémon en fonction des divers paramètres (<ins>en cours de développement</ins>)<br>
-🖋️ **Audit Inc** : Un jeu inspiré de Reign sur l'audit d'un entreprise (<ins>en cours de développement</ins>)
+🚗 **wm** : Une commande qui invoque des machines de guerre (tanks, vehicles...) dans un terminal Linux<br>
+🪩 **Pokemon catching chance calculator** : Une relique numérique qui calcule la probabilité de capture d'un Pokémon en fonction des divers paramètres (<ins>quête en cours</ins>)<br>
+🖋️ **Audit Inc** : Un jeu inspiré de combat de Monstre de Poche (Pokémon) sur l'audit d'un entreprise (<ins>quête en cours</ins>)
+
+---
+"Que l'essence de la Déesse guide votre code."
 
 
 <!--
