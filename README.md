@@ -1,23 +1,39 @@
-## Hi there 👋, my name is Bebel9445
+# The legend of Bebel9445 : Twilight Github
 
-🖥️ Student in **IT License**<br>
-👀 Like discovering new langages<br>
-⚙️ I do some ASM x86_64 and low level for fun
+🇬🇧 [English](README.md) | 🇫🇷 [French](README.fr.md)
 
-## 🛠️ Tools and languages that I use
+Welcome, traveler, to the Twilight Lands and my domain of code.
+
+🖥️ An apprentice knight seeking wisdom in **Computer Science (BUT Informatique)**.<br>
+👀 Discovering new languages is my unwavering quest.<br>
+⚙️ I pursue my path by practicing x86_64 Assembly and low-level sorcery.
+
+## 🛠️ My Faithful Gear for the Quest
+
+**The blades and tools I wield in my journey:**
 
 ![Garuda](https://img.shields.io/badge/Garuda-7F3FBE?logo=garudalinux&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-CD2355?logo=raspberrypi)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/x86__64-grey?logo=assemblyscript&logoColor=white)
 
+## My Affinity with Ancient Writings
+
+**The echoes of the spirits in my most used scripts:**
+
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bebel9445&layout=pie&theme=blue-green&hide=g-code&langs_count=10&hide_border=true)
 
-## 🖱️ Some projects
+## 🖱️ Listing the Side Quests
 
-🚗 **wm** : a command that shows war machines (tanks, vehicles...) in linux terminal<br>
-🪩 **Pokemon catching chance calculator** : a webapp that calculates the probability of catching a Pokémon based on various variables (<ins>work in progress</ins>)<br>
-🖋️ **Audit Inc** : A Reign-like game about auditing a business (<ins>work in progress</ins>)
+**Chronicles of my current and future endeavors:**
+
+🚗 **wm** : A spell that summons war machines (tanks, vehicles...) into a Linux terminal.<br>
+🪩 **Pokemon catching chance calculator** : A digital relic calculating the capture probability of a Pokémon based on various parameters (<ins>quest in progress</ins>)<br>
+🖋️ **Audit Inc** : A saga inspired by the Pocket Monsters games, focused on auditing a business (<ins>quest in progress</ins>)
+
+---
+"May the essence of the Golden Goddesses guide your code."
 
 
 <!--
