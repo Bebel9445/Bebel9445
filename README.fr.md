@@ -8,7 +8,7 @@ Bienvenue, voyageur, dans les terres du Crépuscule et mon domaine du code.
 👀 Decouvrir de nouveaux langages est ma passion.<br>
 ⚙️ Je mène ma quête en praticant l'assembleur x86_64 et le bas niveau.
 
-## 🛠️ Mon fidèles équipement pour ma quête
+## 🛠️ Mon fidèle équipement pour ma quête
 
 ![Garuda](https://img.shields.io/badge/Garuda-7F3FBE?logo=garudalinux&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-CD2355?logo=raspberrypi)
@@ -27,7 +27,7 @@ Bienvenue, voyageur, dans les terres du Crépuscule et mon domaine du code.
 🖋️ **Audit Inc** : Un jeu inspiré de combat de Monstre de Poche (Pokémon) sur l'audit d'un entreprise (<ins>quête en cours</ins>)
 
 ---
-"Que l'essence de la Déesse guide votre code."
+"Que la puissance de la Déesse guide votre code."
 
 
 <!--
