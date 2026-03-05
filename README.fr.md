@@ -18,7 +18,7 @@ Bienvenue, voyageur, dans les terres du Crépuscule et mon domaine du code.
 
 ## Mes affinités avec les anciens écrits
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bebel9445&layout=pie&theme=blue-green&hide=g-code&langs_count=10&hide_border=true)
+![Most used languages](https://github-readme-stats-sigma-ten-57.vercel.app/api/top-langs/?username=Bebel9445&layout=pie&theme=blue-green&hide=g-code&langs_count=10&hide_border=true)
 
 ## 🖱️ Liste les quêtes secondaires
 
