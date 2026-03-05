@@ -18,7 +18,7 @@ Welcome, traveler, to the Twilight Lands and my domain of code.
 
 ## My Affinity with ancient writings
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bebel9445&layout=pie&theme=blue-green&hide=g-code&langs_count=10&hide_border=true)
+![Most used languages](https://github-readme-stats-sigma-ten-57.vercel.app/api/top-langs/?username=Bebel9445&layout=pie&theme=blue-green&hide=g-code&langs_count=10&hide_border=true)
 
 ## 🖱️ Listing the side quests
 
